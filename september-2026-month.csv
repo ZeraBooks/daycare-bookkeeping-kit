@@ -1,0 +1,12 @@
+Line,Amount,Account,In profit
+"Parent tuition, card and ACH",38700.00,"Tuition, private pay",Yes
+"State subsidy deposit, 14 children",11240.00,Subsidy income,Yes
+CACFP reimbursement for August meals,2165.00,Food program income,Yes
+"Registration fees, 3 new families",450.00,Registration and other fees,Yes
+"Payroll, gross wages",-29800.00,Wages,Yes
+Employer payroll taxes,-2279.70,Payroll taxes,Yes
+Groceries,-3980.00,Food,Yes
+Classroom supplies,-1120.00,Classroom supplies,Yes
+Rent,-7500.00,Rent,Yes
+Liability insurance,-890.00,Insurance,Yes
+Card and ACH fees,-420.00,Merchant fees,Yes

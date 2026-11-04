@@ -1,0 +1,27 @@
+Number,Name,Type,Detail,Notes
+1010,Operating checking,Asset,Bank,"Tuition, subsidy and food program deposits land here"
+1100,Tuition receivable,Asset,Receivable,Optional. Tuition billed but not yet paid if you keep accrual books
+1110,Subsidy receivable,Asset,Receivable,Optional. Subsidy for weeks already provided and submitted but not yet paid
+2010,Accounts payable,Liability,Payable,Bills not yet paid
+2100,Prepaid tuition,Liability,Current liability,Tuition paid for weeks not yet provided
+2110,Enrollment deposits held,Liability,Current liability,Optional. Refundable deposits held until a child starts or leaves
+2300,Payroll liabilities,Liability,Current liability,"Withholdings and employer taxes, from the payroll report"
+2400,Business credit card,Liability,Credit card,"The payment from checking is a transfer, not an expense"
+3010,Owner capital,Equity,Owner equity,
+3020,Owner draws,Equity,Owner equity,
+3900,Retained earnings,Equity,Owner equity,
+4010,"Tuition, private pay",Income,Revenue,What parents pay. Record it by family so year-end statements come from the books
+4020,Subsidy income,Income,Revenue,State child care assistance payments
+4030,Food program income,Income,Revenue,CACFP reimbursements. Often paid a month after the meals
+4040,Registration and other fees,Income,Revenue,"Enrollment, late pickup, activity fees"
+6100,Wages,Expense,Payroll,"Teachers, aides, director, from the payroll report"
+6110,Payroll taxes,Expense,Payroll,Employer share from the payroll report
+6200,Food,Expense,Program costs,Groceries and meal supplies
+6210,Classroom supplies,Expense,Program costs,"Art, learning materials, diapering supplies"
+6300,Rent,Expense,Occupancy,Home daycares use home expense accounts instead (see README)
+6310,Utilities,Expense,Occupancy,
+6400,Insurance,Expense,Operating expense,Liability insurance
+6410,Licensing and training,Expense,Operating expense,"License fees, CPR and first aid, required training hours"
+6500,Merchant fees,Expense,Operating expense,Card and ACH fees
+6600,Child care software,Expense,Operating expense,
+6700,Accounting and payroll fees,Expense,Operating expense,

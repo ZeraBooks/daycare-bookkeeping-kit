@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Daycare bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/daycare-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/daycare-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "Bookkeeping for a daycare records parent tuition, state subsidy payments and CACFP food reimbursements as separate income, matches each subsidy deposit to the children and weeks it covers, books payroll from the payroll report, and keeps what each family paid so year-end statements are right. This kit has the accounts, a checklist and two small scripts."
+keywords:
+  - bookkeeping
+  - daycare
+  - child-care
+  - cacfp
+  - chart-of-accounts
+  - accounting
+  - month-end-close
+date-released: 2026-11-04
