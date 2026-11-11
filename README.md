@@ -105,7 +105,7 @@ Form 990.
 
 ## Learn more
 
-Full guide: [Bookkeeping for daycares](https://www.zerabooks.com/bookkeeping-for-daycares). Related: [ZeraBooks bookkeeping services](https://www.zerabooks.com/bookkeeping-services).
+Full guide: [Bookkeeping for daycares](https://www.zerabooks.com/bookkeeping-for-daycares). Related: [ZeraBooks](https://www.zerabooks.com/), accounting software that does your books for you, with free setup and a free catch-up of your past months.
 
 ## License
 
